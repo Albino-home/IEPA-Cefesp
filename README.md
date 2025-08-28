@@ -1,7 +1,7 @@
 
 # IEPA-Cefesp
 
-Aplicativo Web da **Igreja Evangélica Pentecostal Assembleia - CEFESP**, desenvolvido para facilitar a comunicação e organização da igreja.
+Aplicativo Web da **Igreja Evangélica Pentecostal em Angola - CEFESP**, desenvolvido para facilitar a comunicação e organização da igreja.
 
 ## 🌐 Funcionalidades
 - Página inicial com apresentação da igreja  
